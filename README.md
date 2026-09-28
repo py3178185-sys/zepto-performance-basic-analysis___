@@ -667,11 +667,11 @@ Aspiring Data Analyst
 
 ## 📁 Project Files
 
-### `ZEPTO_basic project.sql`
+### `https://storage.googleapis.com/kagglesdsdata/datasets/7432533/11832360/zepto_v2.csv?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20260925%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260925T150642Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=2527d3c0829d423425afb7b9c72fed85b2dd7c3c89203790911f8360ce29884de12996aaa564bef13fae4ceb9ad02190cd65ec3f99229574a6cb58fb6b6988875a8a8da15534e323f61afe9173965d809c99e45cee820bc192f785ef0557007e6d4b5132349a1587c89e471717257a8350e1829f81b146cc5454724436c7682b3ba398fa93d621d1aac36857035f41be5c642374e44babf0bb003de3ce7193a8fa724cca9f5185f2211bc67db2611f93a6866aad770bbe1a91a28d63b7dd34cabc929a6b172a0a5ad813077e830b753d830616b3d3d5333ce9e3f994dd39c795868bb4ffdfadf94426feb0ef594ee310bf956859d6c63b188808709c919ffe01`
 
 Contains all SQL queries used for data cleaning and business analysis.
 
-### `ZEPTO4_FINAL.csv`
+### `‪‪C:\Users\HP\Downloads\ZEPTO_basic project.sql`
 
 Contains the Zepto product dataset used for the analysis.
 
